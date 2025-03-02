@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "MagnifyingGlass.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "ipad"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
