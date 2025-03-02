@@ -18,7 +18,7 @@ LevelSupermind is an iOS application designed to provide an intuitive and engagi
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/shivansh1702/LevelSupermind
    ```
 2. Open the project in Xcode:
    ```sh
